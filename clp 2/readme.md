@@ -18,10 +18,10 @@ Task 6:NumPy#2: Create an array of 100 random values and normalize them between 
 ![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%2006.png)
 
 Task 7:Pandas#1: Load a CSV file of sales data and compute total revenue per product.
-![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%2007.png)
+![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%207.png)
 
 Task 8:Pandas#2: Fill missing values in a dataset with column-wise means.
-![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%2008.png)
+![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%208.png)
 
 Task 9:Matplotlib#1: Plot a line graph showing temperature variations over a week.
 ![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%2009.png)
