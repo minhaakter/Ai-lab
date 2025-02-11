@@ -10,3 +10,7 @@ Task 3:Tuple: Create a tuple of student records (name, age, grade) and sort by g
 
 Task 4:Dictionary: Count word occurrences in a given text and store them in a dictionary.
 ![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%2004.png)
+
+Task 5:NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
+![Output](https://github.com/minhaakter/Ai-lab/blob/main/clp%202/screenshot/task%2005.png)
+
